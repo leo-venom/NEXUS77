@@ -1,0 +1,19 @@
+# Segredos / assinatura — NUNCA commitar
+android/keystore.properties
+android/keystore/
+android/local.properties
+*.jks
+*.keystore
+
+# Build / Gradle
+.gradle/
+build/
+*.apk
+*.aab
+
+# IDE / SO
+.idea/
+*.iml
+.vscode/
+.DS_Store
+*.log
